@@ -33,6 +33,7 @@
     "react-dom": "^18.2.0",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
+    "dotenv": "^16.4.7",
     "zustand": "^4.5.0"
   },
   "devDependencies": {
