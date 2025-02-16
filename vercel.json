@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["sin1"],
+  "env": {
+    "POSTGRES_URL": "POSTGRES_URL",
+    "NEXTAUTH_SECRET": "NEXTAUTH_SECRET",
+    "NEXTAUTH_URL": "NEXTAUTH_URL"
+  }
+} 
