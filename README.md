@@ -2,7 +2,7 @@
 
 A full-featured task management system built with Next.js 14, TypeScript, and Tailwind CSS. TaskMaster helps teams stay organized, collaborate effectively, and deliver projects on time.
 
-![TaskMaster](https://your-screenshot-url.com) <!-- Add a screenshot of your application here -->
+![TaskMaster](https://github.com/PranayHaldiya/manager-task/blob/main/public/Screenshot%202025-02-17%20003725.png) <!-- Add a screenshot of your application here -->
 
 ## 🌟 Features
 
@@ -11,6 +11,8 @@ A full-featured task management system built with Next.js 14, TypeScript, and Ta
 - **User Registration**: New user registration with email verification
 - **Profile Management**: Update user profile information and email
 - **Session Management**: Secure session handling with JWT tokens
+  
+![Sign In](https://github.com/PranayHaldiya/manager-task/blob/main/public/Screenshot%202025-02-17%20003737.png)
 
 ### Task Management
 - **Task Creation**: Create tasks with title, description, status, and priority
@@ -23,18 +25,26 @@ A full-featured task management system built with Next.js 14, TypeScript, and Ta
 - **Task Search**: Search tasks by title and description
 - **Task Comments**: Add and manage comments on tasks
 - **Task Assignments**: Assign tasks to team members
+  
+![Tasks Page](https://github.com/PranayHaldiya/manager-task/blob/main/public/Screenshot%202025-02-17%20003823.png)
+
+![Adding Task](https://github.com/PranayHaldiya/manager-task/blob/main/public/Screenshot%202025-02-17%20003946.png)
 
 ### Project Management
 - **Project Creation**: Create and manage multiple projects
 - **Project Organization**: Group related tasks into projects
 - **Project Overview**: View project progress and task distribution
 - **Project Filtering**: Filter tasks by project
+  
+![Project Page](https://github.com/PranayHaldiya/manager-task/blob/main/public/Screenshot%202025-02-17%20003928.png)
 
 ### Calendar View
 - **Task Timeline**: Visualize tasks in a calendar format
 - **Due Date Management**: Track task deadlines
 - **Date Navigation**: Easy navigation between months
 - **Task Creation**: Create tasks directly from calendar view
+  
+![Calendar View](https://github.com/PranayHaldiya/manager-task/blob/main/public/Screenshot%202025-02-17%20003907.png)
 
 ### Dashboard
 - **Task Overview**: Quick view of all tasks and their status
@@ -45,6 +55,8 @@ A full-featured task management system built with Next.js 14, TypeScript, and Ta
   - Overdue tasks
 - **Recent Activity**: View recently updated tasks
 - **Upcoming Deadlines**: Track approaching task deadlines
+  
+![Dashboard](https://github.com/PranayHaldiya/manager-task/blob/main/public/Screenshot%202025-02-16%20153700.png)
 
 ### User Interface
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
@@ -52,6 +64,8 @@ A full-featured task management system built with Next.js 14, TypeScript, and Ta
 - **Modern UI**: Clean and intuitive interface using Tailwind CSS
 - **Loading States**: Smooth loading states and transitions
 - **Error Handling**: Comprehensive error handling and user feedback
+  
+![Settings Page](https://github.com/PranayHaldiya/manager-task/blob/main/public/Screenshot%202025-02-17%20004004.png)
 
 ## 🚀 Technology Stack
 
@@ -244,7 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGithubUsername](https://github.com/yourusername)
+- Pranay Haldiya - Initial work - [Pranay Haldiya](https://github.com/PranayHaldiya)
 
 ## 🙏 Acknowledgments
 
@@ -255,8 +269,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- Your Name - [your.email@example.com](mailto:your.email@example.com)
-- Project Link: [https://github.com/yourusername/task-master](https://github.com/yourusername/task-master)
+- Your Name - [pranayhaldiya8127@gmail.com](mailto:pranayhaldiya8127@gmail.com)
+- Project Link: [https://github.com/PranayHaldiya/manager-task](https://github.com/PranayHaldiya/manager-taskr)
 
 ---
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Pranay Haldiya](https://github.com/PranayHaldiya)
